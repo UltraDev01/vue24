@@ -62,6 +62,6 @@
 
 <style>
   .service {
-    margin: 4rem 0;
+    padding: 4rem 0;
   }
 </style>
